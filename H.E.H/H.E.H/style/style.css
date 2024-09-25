@@ -1,0 +1,21 @@
+.container .items .items-container .items {
+    outline-style: outset;
+    outline-width: 10px;
+    outline-color: #0d5492;
+    position: relative;
+    text-align: center;
+    padding: 25px;
+    width: 300px;
+    border-radius: 20px;
+  }
+
+  .container .items .items-container {
+    justify-content: center;
+    gap: 100px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .container .items .items-container .items img {
+    height: 200px;
+  }

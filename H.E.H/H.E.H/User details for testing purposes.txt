@@ -1,0 +1,7 @@
+user John Doe
+useremail: example@gmail.com
+password: password
+
+user John Smith
+useremail: example2@gmail.com
+password: password
